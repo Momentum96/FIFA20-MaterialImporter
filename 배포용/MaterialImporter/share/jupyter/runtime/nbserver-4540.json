@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "192.168.219.147",
+  "notebook_dir": "C:\\Users\\wjsrj\\OneDrive",
+  "password": true,
+  "pid": 4540,
+  "port": 8888,
+  "secure": false,
+  "token": "",
+  "url": "http://192.168.219.147:8888/"
+}
